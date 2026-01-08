@@ -125,3 +125,4 @@ if st.button("Autenticar e carregar dados"):
 
         except Exception as e:
             st.error(f"❌ Falha na conexão ou consulta: {e}")
+
